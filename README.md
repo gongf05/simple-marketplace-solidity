@@ -10,16 +10,7 @@ date: 04/16/2018 (updated: 04/18/2018)
 
 ## Objective
 
-This PoC implements a prototype publishing/consuming marketplace using Solidity. It resolves the issue in [https://github.com/oceanprotocol/research/issues/11](https://github.com/oceanprotocol/research/issues/11)
-
-Requirements:
-
-* Working code published in a GitHub repository
-* Project should include unit tests
-* Project should be deployed in Ropsten network
-* Project should include documentation to understand the software architecture, 
-* testing and deployment procedure
-* Project can use Truffle & OpenZeppeling frameworks
+This PoC implements a prototype publishing/consuming marketplace using Solidity. 
 
 ## Features:
 * Version 1.0 (04/17/2018): 
